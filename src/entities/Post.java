@@ -12,5 +12,7 @@ public class Post {
 	private Integer likes;
 	
 	private List<Comment> comments = new ArrayList<>();
+	
+	
 
 }
